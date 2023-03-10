@@ -9,6 +9,7 @@ We have considered following metrics:
 4. The ratio between the fuel and vehicle costs.
 
 STEPS INVOLVED:
+
     • Not all the data which we need will be stored in one table. That is why we need to construct table schemas.
     
     • In this case, we will look at a simple table schema consisting of two tables and how to correctly define the primary and foreign keys before carrying out our analysis.
