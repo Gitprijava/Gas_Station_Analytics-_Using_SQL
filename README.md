@@ -11,7 +11,7 @@ We have considered following metrics:
 STEPS INVOLVED:
     • Not all the data which we need will be stored in one table. That is why we need to construct table schemas.
     
-    • In this example, we will look at a simple table schema consisting of two tables and how to correctly define the primary and foreign keys before carrying out our analysis.
+    • In this case, we will look at a simple table schema consisting of two tables and how to correctly define the primary and foreign keys before carrying out our analysis.
     
     • The table schema constructed will involve using two tables.
     
